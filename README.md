@@ -38,9 +38,6 @@ The dataset consists of the following columns:
 - Modify the dataset to analyze different stock trends.
 - Adjust the plots for deeper insights.
 
-## 📷 Sample Visualizations
-Include example plots in your repository to showcase insights.
-
 ## 🤝 Contribution
 Feel free to contribute by submitting pull requests or opening issues.
 
